@@ -22,3 +22,4 @@ I want you to take off your clothes, sir.
 
 # Dependencies
 * pynput
+* transformers
