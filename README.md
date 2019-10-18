@@ -2,5 +2,4 @@
 beep beep I'm a bot, I said beep beep I'm a bot.
 
 # Dependencies
-* xdotool
-* python-xlib
+* pynput
