@@ -22,7 +22,7 @@ def on_press(key):
 
 def on_release(key):
     print('{0} released'.format(key))
-    if key == keyboard.Key.pause:
+    if key == keyboard.Key.pause or key== keyboard.Key.f12:
         # Stop listener
         return False
 
